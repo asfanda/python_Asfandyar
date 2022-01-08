@@ -1,0 +1,2 @@
+a="asfand"
+print(a)
